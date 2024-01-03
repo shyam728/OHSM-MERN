@@ -4,7 +4,7 @@
 This project is a full-stack application built with React, Node.js, TypeScript, Nestjs, and AWS DynamoDB.
 I am very Research for create this project
 
-Live Link https://ohsm-mern-frontend.vercel.app/
+
 
 I am creating this project mainly focous on backend I am creating all api 
 - Update
