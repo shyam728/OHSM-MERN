@@ -53,7 +53,6 @@ I am creating this project mainly focous on backend I am creating all api
 
 
 
-Replace `your-region`, `your-access-key-id`, and `your-secret-access-key` with your AWS credentials.
 
 ```
 
