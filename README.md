@@ -30,7 +30,7 @@ I am creating this project mainly focous on backend I am creating all api
 
 ### Usage
 
-- The frontend application is accessible at [http://localhost:3000](http://localhost:3000).
+- The backend application is accessible at [http://localhost:3000](http://localhost:3000).
 
 ## Backend
 
