@@ -41,9 +41,7 @@ I am creating this project mainly focous on backend I am creating all api
 3. Update your AWS credentials in `src/db.ts`.
 4. Run `npm start` to start the Express server.
 
-### Usage
 
-- The backend server is accessible at [http://localhost:3001](http://localhost:3001).
 
 ## API Endpoints
 
