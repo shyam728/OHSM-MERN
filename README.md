@@ -38,8 +38,7 @@ I am creating this project mainly focous on backend I am creating all api
 
 1. Navigate to the `my-backend` directory.
 2. Run `npm install` to install dependencies.
-3. Update your AWS credentials in `src/db.ts`.
-4. Run `npm start` to start the Express server.
+3. Run `npm run start` to start the Nestjs server.
 
 
 
